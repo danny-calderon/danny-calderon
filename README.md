@@ -22,7 +22,7 @@
   Mi objetivo es dominar estas tecnologías, desarrollar aplicaciones útiles. ¡Siempre listo para aprender más!
 </p>
 <p align="center">
-  Diseñador web:
+  Diseñador web: <br>
   https://www.grupovalle.eu/
 </p>
 <!---
