@@ -24,7 +24,7 @@
 <p align="center">
   Diseñador web:
   https://www.grupovalle.eu/
-<\p>
+</p>
 <!---
 danny-calderon/danny-calderon is a ✨ special ✨ repository because its `README.md` (este archivo) aparece en tu perfil de GitHub.
 --->
